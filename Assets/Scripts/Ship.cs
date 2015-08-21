@@ -73,7 +73,7 @@ public class Ship : MonoBehaviour
 	}
 	
 	private void HitByLaser(){
-		print ("Taking damage from laser");
+		print ("Taking damage from Laser");
 		
 		AudioSource.PlayClipAtPoint(damageSound, transform.position);
 	}
