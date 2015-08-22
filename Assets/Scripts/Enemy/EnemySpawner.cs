@@ -7,7 +7,9 @@ public class EnemySpawner : MonoBehaviour
 	
 	public GameObject enemyPrefab;
 	public float boundary;
+	public float maxAmountOfEnemies;
 	public GameObject enemyGrouper;
+
 	private GameObject player;
 	private int enemyCount;
 	private int enemiesKilled;
@@ -29,7 +31,7 @@ public class EnemySpawner : MonoBehaviour
 	}
 	
 	void SpawnRandomEnemy ()
-	{	if(enemyCount > 20){
+	{	if(enemyCount >= maxAmountOfEnemies){
 			return;
 		}
 		Vector3 position;

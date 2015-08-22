@@ -6,50 +6,94 @@ Direct3D:
     Vendor:   ATI
     VRAM:     3051 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.050 seconds
+Platform assembly: D:\Repos\Falcon Escape\falcescape_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Repos\Falcon Escape\falcescape_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Repos\Falcon Escape\falcescape_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Repos\Falcon Escape\falcescape_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Repos\Falcon Escape\falcescape_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Repos\Falcon Escape\falcescape_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Repos\Falcon Escape\falcescape_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Repos\Falcon Escape\falcescape_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Repos\Falcon Escape\falcescape_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Repos\Falcon Escape\falcescape_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Repos\Falcon Escape\falcescape_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Repos\Falcon Escape\falcescape_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\Cosas\Proyectos mierder\Falcon Escape\falcescape_Data\Managed\System.dll (this message is harmless)
-Taking damage
+Platform assembly: D:\Repos\Falcon Escape\falcescape_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Repos\Falcon Escape\falcescape_Data\Managed\System.dll (this message is harmless)
+Taking damage from Laser
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-Taking damage
+Taking damage from Laser
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-Taking damage
+Taking damage from Laser
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-Taking damage
+Taking damage from Laser
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-Taking damage
+Taking damage from Laser
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-Taking damage
+Taking damage from Laser
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-Taking damage
+Taking damage from Laser
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Taking damage from Laser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1260)
 
