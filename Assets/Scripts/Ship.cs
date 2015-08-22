@@ -41,6 +41,7 @@ public class Ship : MonoBehaviour
 		audioSrc = GetComponent<AudioSource> ();
 		uiCanvas = GameObject.FindGameObjectWithTag ("UI");
 		otherTurretLastRotation = Quaternion.identity;
+		interiorTurretPointLight.color = turret1Color;
 	}
 	
 	// Update is called once per frame
